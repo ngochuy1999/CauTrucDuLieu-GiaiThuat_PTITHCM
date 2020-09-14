@@ -1,0 +1,56 @@
+﻿  QLSV.cpp
+C:\Users\hi\source\repos\QLSV\QLSV\lib.h(11,1): warning C4005: 'DELETE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\winnt.h(8741): message : see previous definition of 'DELETE'
+C:\Users\hi\source\repos\QLSV\QLSV\QLSV.cpp(33,2): warning C4091: 'typedef ': ignored on left of 'MonHoc' when no variable is declared
+C:\Users\hi\source\repos\QLSV\QLSV\QLSV.cpp(37,2): warning C4091: 'typedef ': ignored on left of 'DS_MonHoc' when no variable is declared
+C:\Users\hi\source\repos\QLSV\QLSV\QLSV.cpp(47,2): warning C4091: 'typedef ': ignored on left of 'SinhVien' when no variable is declared
+C:\Users\hi\source\repos\QLSV\QLSV\QLSV.cpp(51,2): warning C4091: 'typedef ': ignored on left of 'node_SV' when no variable is declared
+C:\Users\hi\source\repos\QLSV\QLSV\QLSV.cpp(74,2): warning C4091: 'typedef ': ignored on left of 'LopTinChi' when no variable is declared
+C:\Users\hi\source\repos\QLSV\QLSV\QLSV.cpp(236,20): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\hi\source\repos\QLSV\QLSV\QLSV.cpp(470,12): warning C4101: 'vitri': unreferenced local variable
+C:\Users\hi\source\repos\QLSV\QLSV\QLSV.cpp(714,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hi\source\repos\QLSV\QLSV\QLSV.cpp(734,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hi\source\repos\QLSV\QLSV\QLSV.cpp(742,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hi\source\repos\QLSV\QLSV\QLSV.cpp(792,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hi\source\repos\QLSV\QLSV\QLSV.cpp(813,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hi\source\repos\QLSV\QLSV\QLSV.cpp(1028,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hi\source\repos\QLSV\QLSV\QLSV.cpp(1055,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hi\source\repos\QLSV\QLSV\QLSV.cpp(1093,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hi\source\repos\QLSV\QLSV\QLSV.cpp(1107,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hi\source\repos\QLSV\QLSV\QLSV.cpp(1133,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hi\source\repos\QLSV\QLSV\QLSV.cpp(1493,6): warning C4101: 'check_trung': unreferenced local variable
+C:\Users\hi\source\repos\QLSV\QLSV\QLSV.cpp(1933,8): warning C4102: 'MALOPTC': unreferenced label
+C:\Users\hi\source\repos\QLSV\QLSV\QLSV.cpp(1923,6): warning C4101: 'check_trung': unreferenced local variable
+C:\Users\hi\source\repos\QLSV\QLSV\QLSV.cpp(2438,6): warning C4101: 'check_trung': unreferenced local variable
+C:\Users\hi\source\repos\QLSV\QLSV\QLSV.cpp(2439,6): warning C4101: 'maLtc_trung': unreferenced local variable
+C:\Users\hi\source\repos\QLSV\QLSV\QLSV.cpp(2440,6): warning C4101: 'ktmaLtc_trung': unreferenced local variable
+C:\Users\hi\source\repos\QLSV\QLSV\QLSV.cpp(3159,32): warning C4101: 'vitriMang': unreferenced local variable
+C:\Users\hi\source\repos\QLSV\QLSV\QLSV.cpp(3158,6): warning C4101: 'check_trung': unreferenced local variable
+C:\Users\hi\source\repos\QLSV\QLSV\QLSV.cpp(3159,43): warning C4101: 'temp': unreferenced local variable
+C:\Users\hi\source\repos\QLSV\QLSV\QLSV.cpp(4302,17): warning C4101: 'vitriMang': unreferenced local variable
+C:\Users\hi\source\repos\QLSV\QLSV\QLSV.cpp(4513,15): warning C4101: 'temp_ltc': unreferenced local variable
+C:\Users\hi\source\repos\QLSV\QLSV\QLSV.cpp(4513,6): warning C4101: 'temp_mh': unreferenced local variable
+C:\Users\hi\source\repos\QLSV\QLSV\QLSV.cpp(4781,8): warning C4102: 'MALOPTC': unreferenced label
+C:\Users\hi\source\repos\QLSV\QLSV\QLSV.cpp(4754,6): warning C4101: 'solop': unreferenced local variable
+C:\Users\hi\source\repos\QLSV\QLSV\QLSV.cpp(4980,17): warning C4101: 'vitriMang': unreferenced local variable
+C:\Users\hi\source\repos\QLSV\QLSV\QLSV.cpp(5219,6): warning C4101: 'ktrasv': unreferenced local variable
+C:\Users\hi\source\repos\QLSV\QLSV\QLSV.cpp(5314,9): warning C4102: 'MALOPTC': unreferenced label
+C:\Users\hi\source\repos\QLSV\QLSV\QLSV.cpp(5287,6): warning C4101: 'solop': unreferenced local variable
+C:\Users\hi\source\repos\QLSV\QLSV\QLSV.cpp(5305,9): warning C4101: 'nodeltc': unreferenced local variable
+C:\Users\hi\source\repos\QLSV\QLSV\QLSV.cpp(5438,17): warning C4101: 'vitriMang': unreferenced local variable
+C:\Users\hi\source\repos\QLSV\QLSV\QLSV.cpp(5667,6): warning C4101: 'ktrasv': unreferenced local variable
+C:\Users\hi\source\repos\QLSV\QLSV\QLSV.cpp(5894,38): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hi\source\repos\QLSV\QLSV\QLSV.cpp(5969,6): warning C4102: 'Reset': unreferenced label
+C:\Users\hi\source\repos\QLSV\QLSV\QLSV.cpp(5902,17): warning C4101: 'vitriMang': unreferenced local variable
+C:\Users\hi\source\repos\QLSV\QLSV\QLSV.cpp(5952,6): warning C4101: 'ktrasv': unreferenced local variable
+C:\Users\hi\source\repos\QLSV\QLSV\QLSV.cpp(304): warning C4715: 'Search_malopTc': not all control paths return a value
+C:\Users\hi\source\repos\QLSV\QLSV\QLSV.cpp(319): warning C4715: 'Search_LTC': not all control paths return a value
+C:\Users\hi\source\repos\QLSV\QLSV\QLSV.cpp(349): warning C4715: 'InsertMH': not all control paths return a value
+C:\Users\hi\source\repos\QLSV\QLSV\QLSV.cpp(533): warning C4715: 'Search_MH_LTC': not all control paths return a value
+C:\Users\hi\source\repos\QLSV\QLSV\QLSV.cpp(1394): warning C4715: 'KiemtraBo4K': not all control paths return a value
+C:\Users\hi\source\repos\QLSV\QLSV\QLSV.cpp(4234): warning C4715: 'SearchSV_LTC': not all control paths return a value
+C:\Users\hi\source\repos\QLSV\QLSV\QLSV.cpp(4505): warning C4715: 'Search_LTC_HK_NK': not all control paths return a value
+C:\Users\hi\source\repos\QLSV\QLSV\QLSV.cpp(4692): warning C4715: 'Search_SV_DSDK': not all control paths return a value
+C:\Users\hi\source\repos\QLSV\QLSV\QLSV.cpp(4955): warning C4715: 'KT_MMH_HK_NK_N': not all control paths return a value
+C:\Users\hi\source\repos\QLSV\QLSV\QLSV.cpp(5280): warning C4715: 'KT_DIEM': not all control paths return a value
+  QLSV.vcxproj -> C:\Users\hi\source\repos\QLSV\Debug\QLSV.exe
